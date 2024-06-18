@@ -1,7 +1,6 @@
 # ECS-cluster-from-ECR-image
 Running a ECR Image on ECS cluster with Task definition
 
-
 Step 1: make sure your image is ready in ECR repository
 Step 2: Create ECS Task Definition
 Now, create an ECS task definition to define your application's requirements and settings:
