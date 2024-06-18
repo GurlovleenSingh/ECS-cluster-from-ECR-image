@@ -1,0 +1,1 @@
+# ECS-cluster-from-ECR-image
